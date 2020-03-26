@@ -1,4 +1,3 @@
-
 li a1, 0		# initialize a0(sum) by 0
 
 li t1, 0		# initialize t1(i) by 0
